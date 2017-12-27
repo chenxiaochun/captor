@@ -1,0 +1,26 @@
+{
+  "name": "captor",
+  "version": "1.0.0",
+  "description": "页面截图助手",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenxiaochun/captor.git"
+  },
+  "keywords": [
+    "captor"
+  ],
+  "author": "chenxiaochun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenxiaochun/captor/issues"
+  },
+  "homepage": "https://github.com/chenxiaochun/captor#readme",
+  "dependencies": {
+    "commander": "^2.12.2",
+    "puppeteer": "^0.13.0"
+  }
+}
